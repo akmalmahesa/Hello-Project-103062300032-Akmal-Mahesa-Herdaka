@@ -1,3 +1,4 @@
+//program aset, saham
 #include <iostream>
 #include <string>
 #include <vector>
